@@ -1,6 +1,4 @@
-# The Git Cheat Sheet
-## By Nicholas & Ilya
----
+# The Git Cheat Sheet - By Nicholas & Ilya
 
 ## What is Git?
 Git is a distributed version-control system for tracking changes in source code during software development. It was initially released by Linus Torvalds on April 7, 2005. Git itself does not provide access-control mechanisms because it was designed for operating with other tools that have that ability
